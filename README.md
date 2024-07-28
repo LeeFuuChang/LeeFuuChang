@@ -3,11 +3,12 @@
 I'm currently studying at <a href="https://www.nthu.edu.tw/"><b>National Tsing Hua University (國立清華大學)</b></a>. Major in Computer Science (Backend) and Art Design (Frontend), dedicated to become a Full-Stack developer, also interests in teaching children how to code.
 
 <p align="center">
-  <img height="100" style="border:0; outline:0; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=LeeFuuChang&include_all_commits=true&count_private=true&show_icons=true&theme=dracula">
-  &nbsp;
-  <img height="100" style="border:0; outline:0; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFuuChang&layout=compact&theme=dracula">
-  &nbsp;
-  <img height="100" style="border:0; outline:0; margin: auto;" src="http://github-readme-streak-stats.herokuapp.com?user=LeeFuuChang&theme=dracula">
+  <img height="192" style="border:0; outline:0; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=LeeFuuChang&include_all_commits=true&count_private=true&show_icons=true&theme=dracula">
+  &nbsp; &nbsp;
+  <img height="192" style="border:0; outline:0; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFuuChang&layout=compact&theme=dracula">
+</p>
+<p align="center">
+  <img height="328" style="border:0; outline:0; margin: auto;" src="http://github-readme-streak-stats.herokuapp.com?user=LeeFuuChang&theme=dracula">
 </p>
 
 <br/>
